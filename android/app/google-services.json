@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742213686333",
+    "project_id": "kwetu-93393",
+    "storage_bucket": "kwetu-93393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742213686333:android:825282fef16e27231b4654",
+        "android_client_info": {
+          "package_name": "com.example.kwetu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742213686333-lhv9vap5a97l3oef0496h43mmobfakeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kwetu",
+            "certificate_hash": "913c45efed65b35fc6b8401befc8b46cca849dd9"
+          }
+        },
+        {
+          "client_id": "742213686333-bl05m9areqedj248rc23duh5l8o4t7n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYmnjnW1ATB2Cm418NFBiJTinb00OEcJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742213686333-bl05m9areqedj248rc23duh5l8o4t7n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
